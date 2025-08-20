@@ -1,39 +1,40 @@
-# 👋 Hi, I'm Ahmed  
+<h2 align="center">👋 Welcome To My GitHub</h2>
 
-🚀 **Junior Data Engineer** | Passionate about building scalable data pipelines and modern data solutions  
+<p align="center">
+  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+</p>
 
----
+### I'm [Ahmed Alaa](https://github.com/ahmatooalaa)  
+🚀 Junior **Data Engineer** passionate about building scalable data pipelines, data modeling, and big data solutions.  
 
-### 🌟 About Me
-- 🎓 Huawei Certified Big Data Associate  
-- 🛠️ Hands-on with **Python, SQL, Spark, Databricks, Azure, Hadoop ecosystem (Hive, HBase, Kafka, Flink)**  
-- 📊 Experienced in **data modeling, ETL pipelines, and analytics workflows**  
-- 🌱 Currently learning **Data Warehousing, Cloud Data Engineering, and Advanced Spark**  
-- 💡 Interested in solving real-world problems with **Big Data & Cloud technologies**  
+I recently earned my **Huawei Big Data Associate** certification in collaboration with NTI, where I gained both practical and theoretical skills in distributed systems, big data ecosystems, and cloud-native platforms.  
 
 ---
 
-### ⚡ Tech Stack
-**Languages:** Python, SQL, Bash  
-**Big Data:** Spark, Hadoop, Hive, HBase, Kafka, Flink  
-**Cloud & Tools:** Azure (ADF, Synapse, Databricks, Data Lake), Docker, Git  
-**Visualization:** Tableau, Power BI  
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, PySpark  
+- **Big Data Tools:** Hadoop, Spark, Flink, Kafka, Flume  
+- **Databases:** Hive, HBase, PostgreSQL  
+- **Cloud:** Huawei Cloud, Azure (beginner)  
+- **Other:** Docker, Linux, Git/GitHub, Data Modeling  
 
 ---
 
-### 📌 Featured Projects
-- 🗄️ **[SQL Data Warehouse Project](https://github.com/ahmatooalaa/sql-data-warehouse-project)**  
-  Medallion Architecture (Bronze → Silver → Gold) with ETL pipelines and Synapse analytics.  
+### 🌱 What I'm Working On
+- Hands-on projects with **Spark** and **ETL pipelines**  
+- Learning more about **Cloud Data Engineering**  
+- Exploring **real-time streaming tools** like Kafka  
 
-- 📊 **Big Data Ecosystem Lab**  
-  Hands-on with Hadoop, Spark, Hive, HBase, Kafka, Flink — deployed on Docker & Huawei Cloud.  
+---
+
+### 📊 GitHub Stats
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmatooalaa&show_icons=true&theme=radical)
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alaa-762a79266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📧 Email: ahmedalaaabdelsaid@gmail.com  
+[![LinkedIn Badge](https://img.shields.io/badge/-AhmedAlaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmatooalaa/)  
+[![Gmail Badge](https://img.shields.io/badge/-ahmatooalaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmatooalaa@gmail.com)  
 
 ---
-
 ⭐️ From [ahmatooalaa](https://github.com/ahmatooalaa)
