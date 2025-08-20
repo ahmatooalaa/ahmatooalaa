@@ -32,9 +32,9 @@ I recently earned my **Huawei Big Data Associate** certification in collaboratio
 
 ---
 
-### 📫 Connect With Me
+  ### 📫 Connect With Me
 [![LinkedIn Badge](https://img.shields.io/badge/-AhmedAlaa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-alaa-762a79266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Gmail Badge](https://img.shields.io/badge/-ahmatooalaa@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto: ahmedalaaabdelsaid@gmail.com)  
+[![Gmail Badge](https://img.shields.io/badge/-ahmedalaaabdelsaid@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmedalaaabdelsaid@gmail.com)
 
 ---
 ⭐️ From [ahmatooalaa](https://github.com/ahmatooalaa)
