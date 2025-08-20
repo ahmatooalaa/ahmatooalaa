@@ -31,9 +31,8 @@
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmatooalaa)  
-- 📝 [Medium / Blog (optional if you write)]()  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-alaa-762a79266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📧 Email: ahmedalaaabdelsaid@gmail.com  
 
 ---
 
